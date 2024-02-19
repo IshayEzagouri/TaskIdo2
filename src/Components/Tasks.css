@@ -74,7 +74,7 @@
     color: #888;
   }
   
-  @meida (max-width:768){
+  @media (max-width:768){
 
     .todos-wrapper{
         margin-top: 1rem;
