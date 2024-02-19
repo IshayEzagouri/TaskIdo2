@@ -74,14 +74,14 @@
     color: #888;
   }
   
-  @media (max-width:768){
+  @media (max-width:768px){
 
     .todos-wrapper{
         margin-top: 1rem;
     }
     .task-input{
-        width:22rem;
-    
+    width:22rem;
+
     }
 
     .todo-item{
